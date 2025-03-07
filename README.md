@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Phạm Thanh Phong 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/ClearWind9u.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Avatar">
+  <img src="https://github.com/ClearWind9u.png" width="200" height="200" style="border-radius: 50%;" alt="Profile Avatar">
 </p>
 
 ---
@@ -14,10 +14,10 @@
 - 🎮 I love playing games and coding mini projects in my free time.  
 - 📫 How to reach me:  
   - 📍 Location: **KTX Khu B, Thủ Đức, Việt Nam**  
-  - 🌐 **Website:** [clearwind.9u](https://your-website-link)  
-  - 📧 **Email:** your-email@example.com  
-  - 🐦 **Twitter/X:** [@clearwindhcmut](https://twitter.com/clearwindhcmut)  
-  - 📘 **Facebook:** [ClearWind9u](https://facebook.com/clearwind.9u)  
+  - 🌐 **Youtube:** [Clear Wind HCMUT](https://www.youtube.com/@clearwindhcmut)  
+  - 📧 **Email:** phamthanhphong9u@gmail.com  
+  - 📘 **Facebook:** [Phạm Thanh Phong](https://www.facebook.com/clearwind.9u) 
+  - 📂**Drive K22:**(https://drive.google.com/drive/folders/1NxPpHQ5EmcBsMmLLsPhCF-KAHKyt6pvO?usp=drive_link)
 
 ---
 
