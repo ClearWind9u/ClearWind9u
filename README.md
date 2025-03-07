@@ -70,4 +70,4 @@
 
 ---
 
-⭐ **Star this repo if you like it!** ⭐
+### ⭐ Star this repo if you like it! ⭐
