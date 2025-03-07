@@ -17,7 +17,7 @@
   - 🌐 **Youtube:** [Clear Wind HCMUT](https://www.youtube.com/@clearwindhcmut)  
   - 📧 **Email:** phamthanhphong9u@gmail.com  
   - 📘 **Facebook:** [Phạm Thanh Phong](https://www.facebook.com/clearwind.9u) 
-  - 📂**Drive K22:**(https://drive.google.com/drive/folders/1NxPpHQ5EmcBsMmLLsPhCF-KAHKyt6pvO?usp=drive_link)
+  - 📂**Drive:**[Drive tài liệu học](https://drive.google.com/drive/folders/1NxPpHQ5EmcBsMmLLsPhCF-KAHKyt6pvO?usp=drive_link)
 
 ---
 
@@ -55,7 +55,7 @@
 
 ### 🎯 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ClearWind9u&theme=react-dark" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClearWind9u&theme=react-dark" alt="GitHub Contribution Graph">
 </p>
 
 ---
