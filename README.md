@@ -43,9 +43,9 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Asset-Management-System](https://github.com/ClearWind9u/Asset-Management-System)** | A web-based system for efficient asset tracking and management | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) |
-| **[NiemVuivaHanhPhuc](https://github.com/ClearWind9u/NiemVuivaHanhPhuc)** | A restaurant management platform to streamline operations | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) |
-| **[Energy-System](https://github.com/ClearWind9u/Energy-System)** | A mobile app for real-time home energy monitoring | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript) |
+| **[Asset-Management-System](https://github.com/ClearWind9u/Asset-Management-System)** | A web-based system for efficient asset tracking and management | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) |
+| **[NiemVuivaHanhPhuc](https://github.com/ClearWind9u/NiemVuivaHanhPhuc)** | A restaurant management platform to streamline operations | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black) |
+| **[Energy-System](https://github.com/ClearWind9u/Energy-System)** | A mobile app for real-time home energy monitoring | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) |
 | **[Game-Flappy-Bird](https://github.com/ClearWind9u/Game-Flappy-Bird)** | A classic Flappy Bird game implementation | ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus) |
 
 ---
@@ -60,7 +60,7 @@
 
 ### 📬 Get in Touch
 - 📧 **Email**: [phamthanhphong9u@gmail.com](mailto:phamthanhphong9u@gmail.com)  
-- 💼 **LinkedIn**: [Thanh Phong Phạm](https://www.linkedin.com/in/phamthanhphong9u) *
+- 💼 **LinkedIn**: [Thanh Phong Phạm](https://www.linkedin.com/in/phamthanhphong9u)
 - 📂 **Portfolio**: [Google Drive](https://drive.google.com/drive/folders/1NxPpHQ5EmcBsMmLLsPhCF-KAHKyt6pvO?usp=drive_link)  
 - 🌐 I’m excited to connect with developers, recruiters, and tech enthusiasts!
 
