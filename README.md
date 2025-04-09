@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -60,7 +60,7 @@
 
 ### 📬 Get in Touch
 - 📧 **Email**: [phamthanhphong9u@gmail.com](mailto:phamthanhphong9u@gmail.com)  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile) *(Update with your actual link)*  
+- 💼 **LinkedIn**: [Thanh Phong Phạm](https://www.linkedin.com/in/phamthanhphong9u) *
 - 📂 **Portfolio**: [Google Drive](https://drive.google.com/drive/folders/1NxPpHQ5EmcBsMmLLsPhCF-KAHKyt6pvO?usp=drive_link)  
 - 🌐 I’m excited to connect with developers, recruiters, and tech enthusiasts!
 
