@@ -1,73 +1,71 @@
-<h1 align="center">Hi there, I'm Phạm Thanh Phong 👋</h1>
+<h1 align="center">Phạm Thanh Phong 👨‍💻</h1>
+<h3 align="center">Computer Science Student | Web Developer | Software Engineering Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/ClearWind9u.png" width="200" height="200" style="border-radius: 50%;" alt="Profile Avatar">
+  <img src="https://github.com/ClearWind9u.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Avatar">
+</p>
+
+<p align="center">
+  <a href="mailto:phamthanhphong9u@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/phamthanhphong9u" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ClearWind9u"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://drive.google.com/drive/folders/1NxPpHQ5EmcBsMmLLsPhCF-KAHKyt6pvO?usp=drive_link"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googledrive&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-### 🚀 About Me:
-- 🎓 **Student at HCMUT-K22**  
-- 🔭 I'm currently working on **web development** and **software engineering**.  
-- 🌱 I’m currently learning **TypeScript, ReactJS, and Data Structures & Algorithms**.  
-- 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.  
-- 🎮 I love playing games and coding mini projects in my free time.  
-- 📫 How to reach me:  
+### 👨‍🎓 About Me
+- 🎓 **B.S. in Computer Science (Expected 2026)** | Ho Chi Minh University of Technology (HCMUT)  
+- 💻 Passionate about **web development**, **software engineering**, and building scalable solutions  
+- 🌱 Currently sharpening my skills in **TypeScript**, **ReactJS**, **PHP**, and **Data Structures & Algorithms**  
+- 🤝 Open to **internships**, **freelance opportunities**, and **open-source collaborations**  
+- 🎯 Goal: To create impactful software that solves real-world problems  
 
+---
+
+### 🛠️ Technical Skills
 <p align="left">
-  <a href="https://www.facebook.com/clearwind.9u">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@clearwindhcmut">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white">
-  </a>
-  <a href="mailto:phamthanhphong9u@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://drive.google.com/drive/folders/1NxPpHQ5EmcBsMmLLsPhCF-KAHKyt6pvO?usp=drive_link">
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 ---
 
-### 📌 Pinned Projects:
-| Repository | Description | Tech Stack |
-|------------|-------------|------------|
-| **[NiemVuivaHanhPhuc](https://github.com/ClearWind9u/NiemVuivaHanhPhuc)** | The restaurant management website | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) |
-| **[SVN8](https://github.com/ClearWind9u/SVN8)** | A web-based project | ![EJS](https://img.shields.io/badge/-EJS-pink?style=flat&logo=ejs) |
-| **[Game-Flappy-Bird](https://github.com/ClearWind9u/Game-Flappy-Bird)** | A Flappy Bird game built with C++ | ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus) |
-| **[Energy-System](https://github.com/ClearWind9u/Energy-System)** | A mobile application for home energy monitoring | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript) |
+### 🌟 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Asset-Management-System](https://github.com/ClearWind9u/Asset-Management-System)** | A web-based system for efficient asset tracking and management | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) |
+| **[NiemVuivaHanhPhuc](https://github.com/ClearWind9u/NiemVuivaHanhPhuc)** | A restaurant management platform to streamline operations | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) |
+| **[Energy-System](https://github.com/ClearWind9u/Energy-System)** | A mobile app for real-time home energy monitoring | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript) |
+| **[Game-Flappy-Bird](https://github.com/ClearWind9u/Game-Flappy-Bird)** | A classic Flappy Bird game implementation | ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus) |
 
 ---
 
-### 🔧 Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-fuchsia?style=flat&logo=ejs)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClearWind9u&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearWind9u&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClearWind9u&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearWind9u&layout=compact&theme=gruvbox" alt="Top Languages" width="35%">
 </p>
 
 ---
 
-### 🎯 Contribution Graph:
+### 📬 Get in Touch
+- 📧 **Email**: [phamthanhphong9u@gmail.com](mailto:phamthanhphong9u@gmail.com)  
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile) *(Update with your actual link)*  
+- 📂 **Portfolio**: [Google Drive](https://drive.google.com/drive/folders/1NxPpHQ5EmcBsMmLLsPhCF-KAHKyt6pvO?usp=drive_link)  
+- 🌐 I’m excited to connect with developers, recruiters, and tech enthusiasts!
+
+---
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClearWind9u&theme=react-dark" alt="GitHub Contribution Graph">
+  <i>💡 "Code is like poetry; it’s about expressing complex ideas simply."</i>
 </p>
-
----
-
-### ⭐ Star this repo if you like it! ⭐
