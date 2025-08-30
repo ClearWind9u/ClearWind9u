@@ -1,22 +1,22 @@
 # Phạm Thanh Phong 👨‍💻
 ## Computer Science Student | Web Developer | Software Engineering Enthusiast
 
-<p align="center">
+<h1 align="center">
   <img src="https://github.com/ClearWind9u.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Avatar">
-</p>
+</h1>
 
-<p align="center">
+<h3 align="center">
   <a href="mailto:phamthanhphong9u@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/phamthanhphong9u" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/ClearWind9u"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+</h3>
 
 ---
 
 ### 👨‍🎓 About Me
 - 🎓 **B.S. in Computer Science (Expected 2026)** | Ho Chi Minh University of Technology (HCMUT)  
 - 💻 Fresher with hands-on experience in web development and software engineering through internships and projects  
-- 🌱 Currently enhancing skills in **TypeScript**, **React**, **PHP**, and **Data Structures & Algorithms**  
+- 🌱 Currently enhancing skills in **Java**, **React**, **PHP**, and **Data Structures & Algorithms**  
 - 🎯 Seeking **part-time or full-time junior roles** to apply technical knowledge and grow as a developer  
 - 🤝 Open to internships, freelance opportunities, and open-source contributions  
 
