@@ -16,7 +16,7 @@
 ### 👨‍🎓 About Me
 - 🎓 **B.S. in Computer Science (Expected 2026)** | Ho Chi Minh University of Technology (HCMUT)  
 - 💻 Fresher with hands-on experience in web development and software engineering through internships and projects  
-- 🌱 Currently enhancing skills in **Java**, **React**, **PHP**, and **Data Structures & Algorithms**  
+- 🌱 Currently enhancing skills in **Java**, **React**, **Node.js**, and know a bit of **PHP**, along with **DevOps on Azure**
 - 🎯 Seeking **part-time or full-time junior roles** to apply technical knowledge and grow as a developer  
 - 🤝 Open to internships, freelance opportunities, and open-source contributions  
 
