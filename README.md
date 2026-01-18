@@ -1,6 +1,6 @@
-# Hi there, I'm Phạm Thanh Phong! �
+# Hi there, I'm Phạm Thanh Phong!
 
-<h2 align="center">Fresh Graduate | Software Engineer | Web Developer</h2>
+<h2 align="center">Software Engineer | Web Developer</h2>
 
 <p align="center">
   <img src="https://github.com/ClearWind9u.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #007ACC;" alt="Profile Avatar">
@@ -14,21 +14,21 @@
 
 ---
 
-### � About Me
+### About Me
 
 I am a **Computer Science Graduate from Ho Chi Minh University of Technology (HCMUT)**, currently looking for **Fresher** opportunities in Software Development. I have a strong passion for building scalable web applications and solving complex problems.
 
-- � **Education**: B.S. in Computer Science (HCMUT).
-- 💻 **Experience**: Hands-on experience in full-stack development through university projects and internships.
-- 🛠️ **Core Stack**: Strong command of **Java, Ruby, PHP**, and the **JavaScript/TypeScript** ecosystem.
-- 🎯 **Goal**: To contribute valuable code to innovative projects and grow as a professional software engineer.
-- 🤝 **Open to**: Full-time Fresher positions, freelance projects, and open-source collaborations.
+- **Education**: B.S. in Computer Science (HCMUT).
+- **Experience**: Hands-on experience in full-stack development through university projects and internships.
+- **Core Stack**: Strong command of **Java, Ruby, PHP**, and the **JavaScript/TypeScript** ecosystem.
+- **Goal**: To contribute valuable code to innovative projects and grow as a professional software engineer.
+- **Open to**: Full-time Fresher positions, freelance projects, and open-source collaborations.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
-#### 👨‍💻 Languages
+#### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"/>
@@ -38,7 +38,7 @@ I am a **Computer Science Graduate from Ho Chi Minh University of Technology (HC
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-#### 🌐 Frameworks & Libraries
+#### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -46,7 +46,7 @@ I am a **Computer Science Graduate from Ho Chi Minh University of Technology (HC
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
-#### 🗄️ Databases & Cloud
+#### Databases & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -56,7 +56,7 @@ I am a **Computer Science Graduate from Ho Chi Minh University of Technology (HC
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 | Project | Description | Main Tech |
 |:---:|:---|:---:|
@@ -67,21 +67,19 @@ I am a **Computer Science Graduate from Ho Chi Minh University of Technology (HC
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/ClearWind9u">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ClearWind9u&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ClearWind9u&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/ClearWind9u">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearWind9u&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
   </a>
   <br/>
   <br/>
   <a href="https://github.com/ClearWind9u">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearWind9u&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/ClearWind9u">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ClearWind9u&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClearWind9u&theme=github_dark&hide_border=true" alt="Streak Stats" />
   </a>
 </div>
 
