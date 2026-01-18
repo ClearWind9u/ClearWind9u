@@ -40,6 +40,7 @@ I am a **Computer Science Graduate from Ho Chi Minh University of Technology (HC
 
 #### Frameworks & Libraries
 <p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" alt="Rails"/>
@@ -67,23 +68,29 @@ I am a **Computer Science Graduate from Ho Chi Minh University of Technology (HC
 
 ---
 
+<!-- 
 ### GitHub Analytics
+Note: Services are currently paused. Uncomment when available.
 
 <div align="center">
   <a href="https://github.com/ClearWind9u">
     <img src="https://github-readme-stats.vercel.app/api?username=ClearWind9u&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150" />
   </a>
+
   <a href="https://github.com/ClearWind9u">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearWind9u&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
   </a>
+
   <br/>
   <br/>
+
   <a href="https://github.com/ClearWind9u">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClearWind9u&theme=github_dark&hide_border=true" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=ClearWind9u&theme=github_dark&hide_border=true" alt="Streak Stats" />
   </a>
 </div>
 
 ---
+-->
 
 <p align="center">
   <i>"Code is like poetry; it’s about expressing complex ideas simply."</i>
