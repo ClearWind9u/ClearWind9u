@@ -1,70 +1,92 @@
-# Phạm Thanh Phong 👨‍💻
-## Computer Science Student | Web Developer | Software Engineering Enthusiast
+# Hi there, I'm Phạm Thanh Phong! �
 
-<h1 align="center">
-  <img src="https://github.com/ClearWind9u.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Avatar">
-</h1>
+<h2 align="center">Fresh Graduate | Software Engineer | Web Developer</h2>
 
-<h3 align="center">
-  <a href="mailto:phamthanhphong9u@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/phamthanhphong9u" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ClearWind9u"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-</h3>
+<p align="center">
+  <img src="https://github.com/ClearWind9u.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #007ACC;" alt="Profile Avatar">
+</p>
 
----
-
-### 👨‍🎓 About Me
-- 🎓 **B.S. in Computer Science (Expected 2026)** | Ho Chi Minh University of Technology (HCMUT)  
-- 💻 Intern/Fresher with hands-on experience in web development and software engineering through internships and projects  
-- 🌱 Currently enhancing skills in **Java**, **React**, **Node.js**, and know a bit of **PHP**, along with **DevOps on Azure**
-- 🎯 Seeking **intern or fresher opportunities** to apply technical knowledge and grow as a developer  
-- 🤝 Open to internships, freelance opportunities, and open-source contributions  
+<p align="center">
+  <a href="mailto:phamthanhphong9u@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/phamthanhphong9u" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ClearWind9u"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-### 🛠️ Technical Skills
+### � About Me
+
+I am a **Computer Science Graduate from Ho Chi Minh University of Technology (HCMUT)**, currently looking for **Fresher** opportunities in Software Development. I have a strong passion for building scalable web applications and solving complex problems.
+
+- � **Education**: B.S. in Computer Science (HCMUT).
+- 💻 **Experience**: Hands-on experience in full-stack development through university projects and internships.
+- 🛠️ **Core Stack**: Strong command of **Java, Ruby, PHP**, and the **JavaScript/TypeScript** ecosystem.
+- 🎯 **Goal**: To contribute valuable code to innovative projects and grow as a professional software engineer.
+- 🤝 **Open to**: Full-time Fresher positions, freelance projects, and open-source collaborations.
+
+---
+
+### 🛠️ Technical Arsenal
+
+#### 👨‍💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+#### 🌐 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" alt="Rails"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
+
+#### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </p>
 
 ---
 
 ### 🌟 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Asset-Management-System](https://github.com/ClearWind9u/Asset-Management-System)** | A web-based system for efficient asset tracking and management | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) |
-| **[NiemVuivaHanhPhuc](https://github.com/ClearWind9u/NiemVuivaHanhPhuc)** | A restaurant management platform to streamline operations | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) |
-| **[Energy-System](https://github.com/ClearWind9u/Energy-System)** | A mobile app for real-time home energy monitoring | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) |
-| **[Game-Flappy-Bird](https://github.com/ClearWind9u/Game-Flappy-Bird)** | A classic Flappy Bird game implementation | ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus) |
+
+| Project | Description | Main Tech |
+|:---:|:---|:---:|
+| **[Asset-Management-System](https://github.com/ClearWind9u/Asset-Management-System)** | Efficient web-based asset tracking and management system. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **[NiemVuivaHanhPhuc](https://github.com/ClearWind9u/NiemVuivaHanhPhuc)** | Comprehensive restaurant management platform. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[Energy-System](https://github.com/ClearWind9u/Energy-System)** | Real-time home energy monitoring mobile application. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[Game-Flappy-Bird](https://github.com/ClearWind9u/Game-Flappy-Bird)** | Classic Flappy Bird game re-implementation with custom features. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/ClearWind9u">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ClearWind9u&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/ClearWind9u">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearWind9u&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/ClearWind9u">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ClearWind9u&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </a>
+</div>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClearWind9u&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearWind9u&layout=compact&theme=gruvbox" alt="Top Languages" width="35%">
-</p>
-
----
-
-### 📬 Get in Touch
-- 📧 **Email**: [phamthanhphong9u@gmail.com](mailto:phamthanhphong9u@gmail.com)  
-- 💼 **LinkedIn**: [Thanh Phong Phạm](https://www.linkedin.com/in/phamthanhphong9u)
-- 🌐 I’m excited to connect with developers, recruiters, and tech enthusiasts!
-
----
-
-<p align="center">
-  <i>💡 "Code is like poetry; it’s about expressing complex ideas simply."</i>
+  <i>"Code is like poetry; it’s about expressing complex ideas simply."</i>
 </p>
