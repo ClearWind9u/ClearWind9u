@@ -15,12 +15,12 @@
 
 ### About Me
 
-I am a **Final-year Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)** specializing in Software Engineering. I have production-line experience engineering responsive user interfaces, building scalable backend architectures, and managing cloud deployments.
+I am a **Final-year Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)** specializing in Software Engineering. My passion lies in engineering resilient distributed systems, modeling efficient database architectures, and deploying cross-platform applications.
 
-* **Education**: B.S. in Computer Science @ HCMUT (GPA: 3.5/4.0).
-* **Experience**: Full-Stack development experience using **Ruby on Rails** at ZIGExN VeNtura & Microservices backend engineering using **Java Spring Boot & Azure** at FPT Software.
+* **Education**: B.S. in Computer Science @ HCMUT, focusing on production-grade software design and architecture.
+* **Experience**: Hands-on experience developing full-stack web applications using **Ruby on Rails** within multi-developer agile teams, and engineering distributed microservices using **Java Spring Boot** deployed on **Microsoft Azure** cloud infrastructure.
 * **Workflow**: Strong advocate for **AI-augmented engineering**—proficiently leveraging Claude and Antigravity to speed up full-stack refactoring, interface optimization, and test automation.
-* **Core Focus**: End-to-End Web Applications, Distributed Systems, Microservices, Multi-Cloud Deployments.
+* **Engineering Values**: Committed to writing self-documenting code, implementing strict Git Flow protocols, maintaining data consistency, and achieving comprehensive automated test coverage.
 
 ---
 
@@ -38,8 +38,8 @@ I am a **Final-year Computer Science Student at Ho Chi Minh City University of T
 
 #### Frameworks & UI Layers
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-66DB3F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" alt="Rails"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
