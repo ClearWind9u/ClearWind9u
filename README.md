@@ -1,6 +1,6 @@
 # Pham Thanh Phong
 
-<h2 align="center">Full-Stack Software Engineer</h2>
+<h2 align="center">Full Stack Software Engineer</h2>
 
 <p align="center">
   <img src="https://github.com/ClearWind9u.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #556B2F;" alt="Profile Avatar">
@@ -15,12 +15,12 @@
 
 ### About Me
 
-I am a **Final-year Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)** specializing in Software Engineering. My passion lies in engineering resilient distributed systems, modeling efficient database architectures, and deploying cross-platform applications.
+I am a Computer Science student at Ho Chi Minh City University of Technology (HCMUT) graduating in November 2026. I focus on building scalable backend infrastructure, designing efficient databases, and developing responsive web applications.
 
-* **Education**: B.S. in Computer Science @ HCMUT, focusing on production-grade software design and architecture.
-* **Experience**: Hands-on experience developing full-stack web applications using **Ruby on Rails** within multi-developer agile teams, and engineering distributed microservices using **Java Spring Boot** deployed on **Microsoft Azure** cloud infrastructure.
-* **Workflow**: Strong advocate for **AI-augmented engineering**—proficiently leveraging Claude and Antigravity to speed up full-stack refactoring, interface optimization, and test automation.
-* **Engineering Values**: Committed to writing self-documenting code, implementing strict Git Flow protocols, maintaining data consistency, and achieving comprehensive automated test coverage.
+* **Education**: Bachelor of Computer Science at HCMUT, focusing on core software design patterns and system analysis.
+* **Experience**: Practical experience developing core features with **Ruby on Rails** within multi developer agile teams at ZIGExN VeNtura, and building microservices using **Java Spring Boot** on **Microsoft Azure** cloud systems at FPT Software.
+* **Workflows**: Advocate for clear engineering structures, utilizing modern AI tools like Claude and GitHub Copilot to improve coding efficiency, speed up refactoring, and maintain clean code compliance.
+* **Core Values**: Committed to writing clear documentation, following standard Git Flow protocols, ensuring distributed data consistency, and writing thorough unit test suites to protect system stability.
 
 ---
 
@@ -56,7 +56,7 @@ I am a **Final-year Computer Science Student at Ho Chi Minh City University of T
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-#### AI-Assisted Development
+#### AI Assisted Development
 <p align="left">
   <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=probot&logoColor=white" alt="Antigravity"/>
@@ -69,10 +69,10 @@ I am a **Final-year Computer Science Student at Ho Chi Minh City University of T
 
 | Project | Description | Tech Stack |
 |:---:|:---|:---:|
-| **BKEUTY** | Distributed e-commerce architecture integrating an API Gateway, complex multi-level product classifications, and the **Saga Choreography** pattern to secure 100% transaction data consistency. Client interface engineered with React Vite, Tailwind CSS, and React Query. | `Spring Boot`, `React Vite`, `Apache Kafka`, `AWS Cloud`, `PostgreSQL` |
-| **Bookinton** | An automated badminton court reservation and dynamic scheduling portal featuring a data-driven capacity pricing engine and synchronized database execution blocks to mitigate multi-user booking collisions. | `Java Spring Boot`, `PostgreSQL`, `Relational DB Design` |
-| **Asset Management** | Interactive monitoring grid dashboard with client-side real-time sorting, filtering, and optimized component state updates ensuring zero UI lag. | `React`, `JavaScript`, `Bootstrap` |
-| **Canteen System** | Single-page responsive web dashboard tracking live transaction order logs and secure JWT session lifecycles. | `Node.js`, `Express`, `MongoDB`, `Redux Toolkit` |
+| **BKEUTY** | Distributed e commerce architecture integrating an API Gateway, complex multi level product categories, and the **Saga Choreography** pattern to secure data consistency. Client interface engineered with React Vite and React Query. | `Spring Boot`, `React Vite`, `Apache Kafka`, `AWS Cloud`, `PostgreSQL` |
+| **Bookinton** | An automated badminton court reservation portal featuring a pricing engine based on peak hours and synchronized database blocks to prevent booking collisions under high traffic. | `Java Spring Boot`, `PostgreSQL`, `Relational DB Design` |
+| **Asset Management** | Interactive monitoring grid dashboard with real time sorting, filtering, and optimized component state updates ensuring zero UI lag during data parsing. | `React`, `JavaScript`, `Bootstrap` |
+| **Canteen System** | Single page responsive web dashboard tracking live order logs and managing secure user sessions via JWT authentication. | `Node.js`, `Express`, `MongoDB`, `Redux Toolkit` |
 
 ---
 
